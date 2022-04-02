@@ -38,7 +38,7 @@ The CocoaPods distribution supports iOS-based authentication using Google Cloud 
     "Sources/OAuth2/FCMTokenProvider/FCMTokenProvider.swift"
 
   s.static_framework = true
-  s.dependency "CryptoSwift", "1.3.0"
+  s.dependency "CryptoSwift", "1.3.3"
   s.dependency "BigInt", "~> 3.1.0"
   s.dependency "SwiftyBase64", "~> 1.1.1"
   s.dependency "SwiftNIO", "2.0.0"
